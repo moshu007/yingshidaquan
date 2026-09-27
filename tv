@@ -1,44 +1,44 @@
 {
-  "spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3"
+  "壁纸": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
-  "sites": [
+  "站点": [
     {
       "key": "豆瓣",
-      "name": "┃微信号：神迹┃",
-      "type": 3,
+      "name": "┃微信号：神迹888┃",
+      "类型": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "可搜索": 0
     },
     {
       "key": "豆瓣预告",
-      "name": "🐼┃豆瓣┃预告",
-      "type": 3,
+      "name": "🐼┃豆瓣┃预告"
+      "类型": 3,
       "api": "csp_YGP",
       "playerType": 2,
-      "searchable": 0
+      "可搜索": 0
     },
     {
       "key": "config",
-      "name": "🐼┃配置┃中心",
-      "type": 3,
+      "名称": "🐼┃配置┃中心",
+      "类型": 3,
       "api": "csp_Config",
       "playerType": 2
     },
     {
       "key": "csp_FeiMaoUC",
       "name": "⚡┃闪电┃优汐",
-      "type": 3,
+      "类型": 3,
       "api": "csp_Duopan",
-      "filterable": 1,
+      "可筛选": 1,
       "ext": {
         "site_urls": [
-          "http://shandian.blog/",
+          "http://shandian.blog/"，
           "http://sd.sduc.site/"
         ],
         "threadinfo": {
           "chunksize": 512,
-          "threads": 16
+          "线程": 16
         },
         "url_key": "FeiMaoUC"
       }
@@ -46,16 +46,16 @@
     {
       "key": "csp_Duopan",
       "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
+      "类型": 3,
       "api": "csp_Duopan",
-      "filterable": 1,
+      "可筛选": 1,
       "ext": {
         "site_urls": [
           "http://xiaocge.fun",
-          "http://feimo.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
+          "http://feimo.fun"
+          "http://www.labi88.sbs"
+          "http://fmao.site"
+          "http://fmao.shop"
           "http://xiaocgege.shop",
           "http://www.xiaocgege.shop"
         ],
